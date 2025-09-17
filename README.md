@@ -1,22 +1,44 @@
-JOB PRTAL MANAGEMENT SYSTEM
-Job Search Portal is a web application, which serves jobseekers to find available job vacancies and Employers to identify eligible job seekers with the prospect of selecting the most qualified candidates.
-Job search portals best serve this purpose. E-recruitment has become the standard means for employers and job seekers to meet their respective objectives.
-<img width="3487" height="149" alt="image" src="https://github.com/user-attachments/assets/59e42166-f47e-4312-a02a-261eca3660ca" />
+# Job Portal Management System
 
-I used to do research about companies and their technology stack through their respective websites and apply if the job responsibilities matches my interests. 
-<img width="2782" height="88" alt="image" src="https://github.com/user-attachments/assets/89e85a72-3e55-414c-bce9-fce0e77c50d1" />
+## Overview
 
-Software Requirements
-Operating System: Windows 10
-IDE: Eclipse, Android Studio IDE
-Application Server: Apache Tomcat 8.5.6
-Database: MySQL, SQLite Database
-Front End: HTML5, CSS3, JavaScript, jQuery
-Web Service: RESTful web services
-Browser: Chrome or Firefox or Internet Explorer
-Hardware Requirements
-•	Processor: Intel core i7
-•	Processor speed: 3.40 GHz
-<img width="913" height="696" alt="image" src="https://github.com/user-attachments/assets/fdb63369-7ca7-420a-87ca-774f99c10ab3" />
+The **Job Portal Management System** is a comprehensive web application designed to streamline and automate the process of job searching, job posting, and recruitment. It serves as a platform for job seekers to find suitable employment opportunities and for employers to post job openings, review applications, and manage recruitment efficiently.
 
+## Features
+
+- **User Registration & Authentication:**  
+  Secure sign-up and login for both job seekers and employers.
+
+- **Profile Management:**  
+  Job seekers can create and update their profiles, upload resumes, and add skills. Employers can manage their company profiles.
+
+- **Job Posting:**  
+  Employers can post new job openings, specify requirements, and set deadlines.
+
+- **Job Search & Filtering:**  
+  Job seekers can search for jobs based on category, location, experience, and other filters.
+
+- **Application Management:**  
+  Job seekers can apply for jobs directly through the portal. Employers can view, shortlist, or reject applications.
+
+- **Admin Dashboard:**  
+  Administrators have access to manage users, jobs, and monitor activity across the platform.
+
+- **Notifications:**  
+  Email or in-app notifications for application status updates and relevant job postings.
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript (Framework: e.g., React, Angular, or Vue.js)
+- **Backend:** Node.js, Express.js / Django / Spring Boot (based on implementation)
+- **Database:** MongoDB / MySQL / PostgreSQL
+- **Authentication:** JWT / OAuth2.0
+- **Other:** RESTful APIs, Cloud Deployment (optional)
+
+## How to Run
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Himanshu6300/Job-Portal-Management.git
+   cd Job-Portal-Management
 
